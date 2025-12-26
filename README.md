@@ -1,6 +1,6 @@
 # Sentient Studios
 An interactive and visually stunning mentorship platform connecting professionals for growth and guidance.
-[cloudflarebutton]
+[![Deploy to Cloudflare](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/businessunusualexperiment-cpu/Sentient-Studios)
 ## Table of Contents
 - [About](#about)
 - [Key Features](#key-features)
@@ -66,7 +66,7 @@ This application is designed to be deployed on Cloudflare Workers.
     bun run deploy
     ```
     This command builds the application and deploys it to Cloudflare.
-[cloudflarebutton]
+[![Deploy to Cloudflare](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/businessunusualexperiment-cpu/Sentient-Studios)
 ## Project Structure
 ```
 .
